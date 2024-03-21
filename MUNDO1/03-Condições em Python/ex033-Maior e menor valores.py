@@ -11,5 +11,5 @@ if n2 > n1 and n2 > n3:
     maior = n2
 if n3 > n1 and n3 > n2:
     maior = n3
-print(f"O Maior número é {maior} e o menor número é {menor}")
+print(f"O Maior número é \033[1:34m{maior}\033[m e o menor número é \033[1:31m{menor}\033[m")
 
