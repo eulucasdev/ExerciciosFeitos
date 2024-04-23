@@ -31,3 +31,4 @@ while not sair:
         n2 = int(input("Escolha um novo 2° valor: "))
     if op == 0:
         sair = True
+print("Programa Finalizado")
