@@ -6,6 +6,7 @@ while True:
         sexo = str(input("Sexo [F/M] ")).strip().lower()[0]
     while sn not in "sn":
         sn = input("Cadastrar outra pessoas? ")
+    print("=-"*15)
     if idade >= 18:
         t18 += 1
     if sexo == "m":
@@ -14,6 +15,6 @@ while True:
         m20 += 1
     if sn == "n":
         break
-print(f"Total de homens: {th}\n"
+print(f"\nTotal de homens: {th}\n"
       f"Total de pessoas maiores de 18: {t18}\n"
       f"Total de Mulheres maiores de 20 anos: {m20}")
