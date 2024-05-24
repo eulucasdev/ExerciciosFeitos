@@ -18,5 +18,3 @@ while True:
 print(f"TOTAL A PAGAR: {tot:.2f}\n")
 print(f"Há {mmil} produtos acima de R$ 1000,00." if mmil >= 1 else "Sem produtos a cima de R$ 1000,00.")
 print(f"\nO Produto mais barato é, {pmval.upper()}")
-
-
