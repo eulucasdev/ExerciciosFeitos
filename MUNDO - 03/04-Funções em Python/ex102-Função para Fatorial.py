@@ -6,6 +6,7 @@ fator(n, show=False)
     :param show: (opcional) Mostrar ou não a conta
     :return: O valor do Fatorial de um número n.
     """
+    print(f, end=" x ")
     for c in range(f-1, 0, -1):
         f *= c
         if show:
@@ -16,4 +17,4 @@ fator(n, show=False)
     return f
 
 
-print(fator(10, show=True))
+print(fator(5, show=True))
