@@ -9,7 +9,7 @@ fator(n, show=False)
     for c in range(f-1, 0, -1):
         f *= c
         if show:
-            if c>1:
+            if c > 1:
                 print(c, end=" x ")
             else:
                 print(c, end=" = ")
