@@ -3,6 +3,7 @@ def tit(txt):
     print(f"{txt:^30}")
     print("="*30)
 
+
 def area(a, b):
     t = a * b
     print("=-"*15)
