@@ -1,3 +1,4 @@
+from time import sleep
 def title(msg):
     tam = len(msg) + 4
     print("~"*tam)
@@ -14,6 +15,7 @@ def ajuda():
         if msg != "fim":
             title(f"Acessando o manual do comando '{msg}' ")
             print("\033[m", end="")
+            sleep(2)
             print("\033[1;30;47m")
             help(msg)
         if msg == "fim":
