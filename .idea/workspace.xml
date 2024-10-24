@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab66240f-75bf-41ee-a45f-2d512951565d" name="Changes" comment="(FUNÇÕES)">
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python/Aula22-Módulos e Pacotes.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eulucasdev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eulucasdev/Exerc-cios-Prontos-em-Python-.git&quot;,
+    &quot;accountId&quot;: &quot;fd595d79-e19b-4f84-940f-2431eb0a1631&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MUNDO - 03/03-Varíável composta em Python(Dicionários)/ex093-Cadastro de Jogador de Futebol.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex101-Funções para votação.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex105-Analisando e gerando Dicionários.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ceSDhCprYVJb4V63SiAWGQytly" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula - 21 parte 2.executor": "Run",
+    "Python.Aula22-Módulos e Pacotes.executor": "Run",
+    "Python.ex002-respondendo usuário.executor": "Run",
+    "Python.ex003-Soma de dois números.executor": "Run",
+    "Python.ex004-Dissecando uma Variável.executor": "Run",
+    "Python.ex005-Antecessor e Sucessor.executor": "Run",
+    "Python.ex006-Dobro, Triplo, Raiz Quadrada.executor": "Run",
+    "Python.ex007-Média Aritmética.executor": "Run",
+    "Python.ex008-Conversor de Medidas.executor": "Run",
+    "Python.ex008v1-Conversor de Medidas.executor": "Run",
+    "Python.ex008v2-Conversor de Medidas (1).executor": "Run",
+    "Python.ex011-Pintando Parede.executor": "Run",
+    "Python.ex012-Calculando Descontos.executor": "Run",
+    "Python.ex013-Conversor de Temperaturas.executor": "Run",
+    "Python.ex014-Conversor de Temperaturas.executor": "Run",
+    "Python.ex015-Aluguel de Carros.executor": "Run",
+    "Python.ex016-Quebrando um número.executor": "Run",
+    "Python.ex017-Hipotenusa.executor": "Run",
+    "Python.ex018-Seno, Cosseno e Tangente.executor": "Run",
+    "Python.ex019-Sorteando um item na lista.executor": "Run",
+    "Python.ex020-Sorteando uma ordem.executor": "Run",
+    "Python.ex021-Tocando um MP3.executor": "Run",
+    "Python.ex022-Analisador de Textos.executor": "Run",
+    "Python.ex022-Separando dígitos de um número.executor": "Run",
+    "Python.ex024-Verificando as primeiras letras de um texto.executor": "Run",
+    "Python.ex025-Procurando uma string dentro de outra.executor": "Run",
+    "Python.ex026-Primeira e última ocorrência de uma string.executor": "Run",
+    "Python.ex027-Primeiro e último nome.executor": "Run",
+    "Python.ex028-Jogo da Adivinhação v.1.0.executor": "Run",
+    "Python.ex029-Radar eletrônico.executor": "Run",
+    "Python.ex030-Par ou Ímpar.executor": "Run",
+    "Python.ex031-Custo da Viagem.executor": "Run",
+    "Python.ex032-Ano Bissexto.executor": "Run",
+    "Python.ex033-Maior e menor valores.executor": "Run",
+    "Python.ex034-Aumentos Múltiplos.executor": "Run",
+    "Python.ex035-Analisando Triângulo.executor": "Run",
+    "Python.ex036-Aprovando Empréstimo.executor": "Run",
+    "Python.ex037-Conversor de Bases Numéricas.executor": "Run",
+    "Python.ex038-Comparando números.executor": "Run",
+    "Python.ex039-Alistamento Militar.executor": "Run",
+    "Python.ex040-Aquele clássico da Média.executor": "Run",
+    "Python.ex041-Classificando Atletas.executor": "Run",
+    "Python.ex043-Índice de Massa Corporal.executor": "Run",
+    "Python.ex044-Gerenciador de Pagamentos.executor": "Run",
+    "Python.ex045-GAME Pedra Papel e Tesoura.executor": "Run",
+    "Python.ex046-Contagem Regressiva.executor": "Run",
+    "Python.ex047-Contagem de pares.executor": "Run",
+    "Python.ex048-Soma ímpares múltiplos de três.executor": "Run",
+    "Python.ex050-Soma dos pares.executor": "Run",
+    "Python.ex051-Progressão Aritmética.executor": "Run",
+    "Python.ex053-Números primos.executor": "Run",
+    "Python.ex054-Detector de Palíndromo.executor": "Run",
+    "Python.ex054-Grupo da Maioridade (1).executor": "Run",
+    "Python.ex054-Grupo da Maioridade.executor": "Run",
+    "Python.ex055-Maior e menor da sequência.executor": "Run",
+    "Python.ex056-Analisador completo.executor": "Run",
+    "Python.ex057–Validação de Dados.executor": "Run",
+    "Python.ex058-Jogo da Adivinhação v2.0.executor": "Run",
+    "Python.ex059-Menu de opções.executor": "Run",
+    "Python.ex060–Cálculo do Fatorial.executor": "Run",
+    "Python.ex061-Progressão Aritmética v2.0.executor": "Run",
+    "Python.ex061-Super Progressão Aritmética v3.0.executor": "Run",
+    "Python.ex062-Sequência de Fibonacci.executor": "Run",
+    "Python.ex064-Tratando vários valores v1.0.executor": "Run",
+    "Python.ex065-Maior e Menor valores.executor": "Run",
+    "Python.ex066-Vários números com flag.executor": "Run",
+    "Python.ex069–Análise de dados do grupo.executor": "Run",
+    "Python.ex070-Estatísticas em produtos.executor": "Run",
+    "Python.ex071-Simulador de Caixa Eletrônico.executor": "Run",
+    "Python.ex072-Número por Extenso.executor": "Run",
+    "Python.ex073-Tuplas com Times de Futebol.executor": "Run",
+    "Python.ex074-Maior e menor valores em Tupla.executor": "Run",
+    "Python.ex075-Análise de dados em uma Tupla.executor": "Run",
+    "Python.ex076-Lista de Preços com Tupla.executor": "Run",
+    "Python.ex077-Contando vogais.executor": "Run",
+    "Python.ex078-Maior e Menor valores na Lista.executor": "Run",
+    "Python.ex079-Valores únicos em uma Lista.executor": "Run",
+    "Python.ex080-Lista ordenada sem repetições.executor": "Run",
+    "Python.ex081-Extraindo dados de uma Lista.executor": "Run",
+    "Python.ex082-Dividindo valores em várias listas.executor": "Run",
+    "Python.ex083-Validando expressões matemáticas.executor": "Run",
+    "Python.ex084-Lista composta e análise de dados.executor": "Run",
+    "Python.ex085-Listas com pares e ímpares.executor": "Run",
+    "Python.ex086-Matriz em Python.executor": "Run",
+    "Python.ex087-Mais sobre Matriz em Python.executor": "Run",
+    "Python.ex088-Palpites para a Mega Sena.executor": "Run",
+    "Python.ex089-Boletim com listas compostas.executor": "Run",
+    "Python.ex090-Dicionário em Python.executor": "Run",
+    "Python.ex091-Jogo de Dados em Python.executor": "Run",
+    "Python.ex092-Cadastro de Trabalhador em Python.executor": "Run",
+    "Python.ex093-Cadastro de Jogador de Futebol.executor": "Run",
+    "Python.ex094-Unindo dicionários e listas.executor": "Run",
+    "Python.ex095-Aprimorando os Dicionários.executor": "Run",
+    "Python.ex096-Função que calcula área.executor": "Run",
+    "Python.ex097-Um print especial.executor": "Run",
+    "Python.ex098-Função de Contador.executor": "Run",
+    "Python.ex099-Função que descobre o maior.executor": "Run",
+    "Python.ex100-Funções para sortear e somar.executor": "Run",
+    "Python.ex101-Funções para votação.executor": "Run",
+    "Python.ex102-Função para Fatorial.executor": "Run",
+    "Python.ex103-Ficha do Jogador.executor": "Run",
+    "Python.ex104-Validando entrada de dados em Python.executor": "Run",
+    "Python.ex105-Analisando e gerando Dicionários.executor": "Run",
+    "Python.ex106-Interactive helping system in Python.executor": "Run",
+    "Python.ex49-Tabuada v.2.0.executor": "Run",
+    "Python.ex51-Progressão Aritmética.v1.executor": "Run",
+    "Python.ex67-Tabuada v3.0.executor": "Run",
+    "Python.ex68-Jogo do Par ou Ímpar.executor": "Run",
+    "Python.testes.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lucas.deoliveira/PycharmProjects/modulos",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO1\02-Módulos do Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO - 03\01-Variável composta em Python(tupla)" />
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO - 02\Repetições em Python (while)" />
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO - 02\02-Rapetições em Python (For)" />
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO - 02\01-Condições em Python" />
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO1\Tratando dados e fazendo contas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Aula22-Módulos e Pacotes">
+    <configuration name="Aula22-Módulos e Pacotes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python/Aula22-Módulos e Pacotes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex104-Validando entrada de dados em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex104-Validando entrada de dados em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex105-Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex105-Analisando e gerando Dicionários.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex106-Interactive helping system in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex106-Interactive helping system in Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Aula22-Módulos e Pacotes" />
+        <item itemvalue="Python.ex106-Interactive helping system in Python" />
+        <item itemvalue="Python.ex105-Analisando e gerando Dicionários" />
+        <item itemvalue="Python.ex104-Validando entrada de dados em Python" />
+        <item itemvalue="Python.testes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab66240f-75bf-41ee-a45f-2d512951565d" name="Changes" comment="" />
+      <created>1708470433119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708470433119</updated>
+    </task>
+    <task id="LOCAL-00042" summary="for">
+      <option name="closed" value="true" />
+      <created>1713567118718</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1713567118718</updated>
+    </task>
+    <task id="LOCAL-00043" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1713834735569</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1713834735569</updated>
+    </task>
+    <task id="LOCAL-00044" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1713907263970</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1713907263970</updated>
+    </task>
+    <task id="LOCAL-00045" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1714436618839</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1714436618839</updated>
+    </task>
+    <task id="LOCAL-00046" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1715994210905</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1715994210905</updated>
+    </task>
+    <task id="LOCAL-00047" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1715996871360</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715996871361</updated>
+    </task>
+    <task id="LOCAL-00048" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716210038918</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1716210038918</updated>
+    </task>
+    <task id="LOCAL-00049" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716215327418</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1716215327418</updated>
+    </task>
+    <task id="LOCAL-00050" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716228820827</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1716228820827</updated>
+    </task>
+    <task id="LOCAL-00051" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716562819882</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1716562819882</updated>
+    </task>
+    <task id="LOCAL-00052" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716562975131</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1716562975131</updated>
+    </task>
+    <task id="LOCAL-00053" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716583919351</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1716583919351</updated>
+    </task>
+    <task id="LOCAL-00054" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716583976785</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1716583976785</updated>
+    </task>
+    <task id="LOCAL-00055" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1716924565855</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1716924565855</updated>
+    </task>
+    <task id="LOCAL-00056" summary="(Tuplas)">
+      <option name="closed" value="true" />
+      <created>1717004779978</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1717004779978</updated>
+    </task>
+    <task id="LOCAL-00057" summary="(Tuplas)">
+      <option name="closed" value="true" />
+      <created>1717006328346</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1717006328346</updated>
+    </task>
+    <task id="LOCAL-00058" summary="(Tuplas)">
+      <option name="closed" value="true" />
+      <created>1717424330925</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1717424330925</updated>
+    </task>
+    <task id="LOCAL-00059" summary="(Tuplas)">
+      <option name="closed" value="true" />
+      <created>1717594637898</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1717594637898</updated>
+    </task>
+    <task id="LOCAL-00060" summary="(Tuplas)">
+      <option name="closed" value="true" />
+      <created>1717617180512</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617180512</updated>
+    </task>
+    <task id="LOCAL-00061" summary="(while)">
+      <option name="closed" value="true" />
+      <created>1717617372714</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617372714</updated>
+    </task>
+    <task id="LOCAL-00062" summary="(tupla))">
+      <option name="closed" value="true" />
+      <created>1717617499646</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617499646</updated>
+    </task>
+    <task id="LOCAL-00063" summary="(if, elif)">
+      <option name="closed" value="true" />
+      <created>1717617570175</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617570175</updated>
+    </task>
+    <task id="LOCAL-00064" summary="(if, elif)">
+      <option name="closed" value="true" />
+      <created>1717617655752</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617655752</updated>
+    </task>
+    <task id="LOCAL-00065" summary="(tupla)">
+      <option name="closed" value="true" />
+      <created>1717617891494</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1717617891494</updated>
+    </task>
+    <task id="LOCAL-00066" summary="(Lista)">
+      <option name="closed" value="true" />
+      <created>1717774864671</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1717774864671</updated>
+    </task>
+    <task id="LOCAL-00067" summary="(Lista)">
+      <option name="closed" value="true" />
+      <created>1718028206318</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1718028206318</updated>
+    </task>
+    <task id="LOCAL-00068" summary="(Lista)">
+      <option name="closed" value="true" />
+      <created>1718149921276</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1718149921276</updated>
+    </task>
+    <task id="LOCAL-00069" summary="(Lista)">
+      <option name="closed" value="true" />
+      <created>1719252535270</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1719252535270</updated>
+    </task>
+    <task id="LOCAL-00070" summary="(Lista)">
+      <option name="closed" value="true" />
+      <created>1719848359729</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1719848359729</updated>
+    </task>
+    <task id="LOCAL-00071" summary="(Lista)">
+      <option name="closed" value="true" />
+      <created>1719934579381</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1719934579382</updated>
+    </task>
+    <task id="LOCAL-00072" summary="(Dicionário)">
+      <option name="closed" value="true" />
+      <created>1720098858626</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1720098858627</updated>
+    </task>
+    <task id="LOCAL-00073" summary="(Dicionário)">
+      <option name="closed" value="true" />
+      <created>1720629350399</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1720629350400</updated>
+    </task>
+    <task id="LOCAL-00074" summary="(Dicionário)">
+      <option name="closed" value="true" />
+      <created>1721319732727</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1721319732727</updated>
+    </task>
+    <task id="LOCAL-00075" summary="(Dicionário)">
+      <option name="closed" value="true" />
+      <created>1721405058803</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1721405058804</updated>
+    </task>
+    <task id="LOCAL-00076" summary="(Dicionário)">
+      <option name="closed" value="true" />
+      <created>1721676580685</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1721676580686</updated>
+    </task>
+    <task id="LOCAL-00077" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1722026934623</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1722026934623</updated>
+    </task>
+    <task id="LOCAL-00078" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1722028098482</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1722028098482</updated>
+    </task>
+    <task id="LOCAL-00079" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1722522867060</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1722522867062</updated>
+    </task>
+    <task id="LOCAL-00080" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1723076315724</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1723076315724</updated>
+    </task>
+    <task id="LOCAL-00081" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1723163708178</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1723163708178</updated>
+    </task>
+    <task id="LOCAL-00082" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1725499165756</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1725499165757</updated>
+    </task>
+    <task id="LOCAL-00083" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1726621505514</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1726621505514</updated>
+    </task>
+    <task id="LOCAL-00084" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1726621549879</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1726621549879</updated>
+    </task>
+    <task id="LOCAL-00085" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1726621654519</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1726621654519</updated>
+    </task>
+    <task id="LOCAL-00086" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1726879726410</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1726879726411</updated>
+    </task>
+    <task id="LOCAL-00087" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1728091258918</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1728091258919</updated>
+    </task>
+    <task id="LOCAL-00088" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1729560715593</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1729560715594</updated>
+    </task>
+    <task id="LOCAL-00089" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1729708134838</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1729708134839</updated>
+    </task>
+    <task id="LOCAL-00090" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1729708337418</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1729708337418</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="new exercises" />
+    <MESSAGE value="Organizando" />
+    <MESSAGE value="." />
+    <MESSAGE value="if / else" />
+    <MESSAGE value="if / elif" />
+    <MESSAGE value="Dados e Números (o basíco)" />
+    <MESSAGE value="módulos" />
+    <MESSAGE value="Manipulando Textos" />
+    <MESSAGE value="if/else" />
+    <MESSAGE value="if/elif" />
+    <MESSAGE value="for" />
+    <MESSAGE value="(Tuplas)" />
+    <MESSAGE value="(while)" />
+    <MESSAGE value="(tupla))" />
+    <MESSAGE value="(if, elif)" />
+    <MESSAGE value="(tupla)" />
+    <MESSAGE value="(Lista)" />
+    <MESSAGE value="(Dicionário)" />
+    <MESSAGE value="(FUNÇÕES)" />
+    <option name="LAST_COMMIT_MESSAGE" value="(FUNÇÕES)" />
+  </component>
+</project>
