@@ -1,25 +1,24 @@
 # ----->  ex107  <-----
-def aumentar(preço, taxa):
-    res = preço + (preço * taxa/100)
+def aumentar(valor=0, taxa=0):
+    res = valor + (valor * taxa/100)
     return res
 
 
-def diminuir(preço, taxa):
-    res = preço - (preço * taxa/100)
+def diminuir(valor=0, taxa=0):
+    res = valor - (valor * taxa/100)
     return res
 
 
-def dobro(preço):
-    res = preço * 2
+def dobro(valor=0):
+    res = valor * 2
     return res
 
 
-def metade(preço):
-    res = preço / 2
+def metade(valor=0):
+    res = valor / 2
     return res
 
 
 # ----->  ex108  <-----
-def real(valor):
-    res = f"R$ {valor:.0f},00"
-    return res
+def real(valor=0, moeda="R$"):
+    return f'{moeda} {valor:>.2f}'.replace('.', ',')
