@@ -1,22 +1,22 @@
-# ----->  ex107  <-----
-def aumentar(valor=0, taxa=0):
+# ----->  ex107 + ex109  <-----
+def aumentar(valor=0, taxa=0, formata=False):
     res = valor + (valor * taxa/100)
-    return res
+    return res if not formata else real(res)
 
 
-def diminuir(valor=0, taxa=0):
+def diminuir(valor=0, taxa=0, formata=False):
     res = valor - (valor * taxa/100)
-    return res
+    return res if not formata else real(res)
 
 
-def dobro(valor=0):
+def dobro(valor=0, formata=False):
     res = valor * 2
-    return res
+    return res if not formata else real(res)
 
 
-def metade(valor=0):
+def metade(valor=0, formata=False):
     res = valor / 2
-    return res
+    return res if not formata else real(res)
 
 
 # ----->  ex108  <-----
