@@ -28,10 +28,15 @@ def resumo(v, up=0, dow=0):
     print("="*35)
     print(f"{"RESUMO DE VALOR":^35}")
     print("="*35)
-    print(f"Preço analisado:{real(v):<18}")
-    print(f"Dobro do preço:{dobro(v, True):<19}")
-    print(f"Metade do preço:{metade(v, True):<18}")
-    print(f"{up}% de aumento:{aumentar(v, up, True):<19}")
-    print(f"{dow}% de redução:{diminuir(v, dow, True):<19}")
+    print(f"Preço analisado: \t{real(v)}")
+    print(f"Dobro do preço: \t{dobro(v, True)}")
+    print(f"Metade do preço: \t{metade(v, True)}")
+    if up < 10:
+        print(f"0{up}% de aumento: \t{aumentar(v, up, True)}")
+    else:
+        print(f"{up}% de aumento: \t{aumentar(v, up, True)}")
+    if dow < 10:
+        print(f"0{dow}% de redução: \t{diminuir(v, dow, True)}")
+    else:
+        print(f"{dow}% de redução: \t{diminuir(v, dow, True)}")
     print("="*35)
-
