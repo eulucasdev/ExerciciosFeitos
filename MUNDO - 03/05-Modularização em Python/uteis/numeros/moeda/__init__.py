@@ -1,4 +1,4 @@
-# ----->  ex107 + ex109  <-----
+# ----->  ex107 + ex111  <-----
 def aumentar(valor=0, taxa=0, formata=False):
     res = valor + (valor * taxa/100)
     return res if not formata else real(res)
