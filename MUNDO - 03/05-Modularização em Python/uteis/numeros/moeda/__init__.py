@@ -26,7 +26,7 @@ def real(valor=0, moeda="R$"):
 
 def resumo(v, up=0, dow=0):
     print("="*35)
-    print(f"{"RESUMO DE VALOR":^35}")
+    print(f"{f'RESUMO DE VALOR':^35}")
     print("="*35)
     print(f"Preço analisado: \t{real(v)}")
     print(f"Dobro do preço: \t{dobro(v, True)}")

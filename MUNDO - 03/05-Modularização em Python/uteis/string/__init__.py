@@ -24,5 +24,3 @@ def leiaInt(nu):
     return n
 
 
-n = leiaInt("Digite um número: ")
-print(f"\033[0:32mNúmero {n} registrado!\033[m")
