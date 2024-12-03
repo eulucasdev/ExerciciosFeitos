@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab66240f-75bf-41ee-a45f-2d512951565d" name="Changes" comment="(FUNÇÕES)">
-      <change afterPath="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python/Aula22-Módulos e Pacotes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/eulucasdev/Exerc-cios-Prontos-em-Python-.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/eulucasdev/ExerciciosFeitos.git&quot;,
     &quot;accountId&quot;: &quot;fd595d79-e19b-4f84-940f-2431eb0a1631&quot;
   }
 }</component>
@@ -60,6 +60,7 @@
   "keyToString": {
     "Python.Aula - 21 parte 2.executor": "Run",
     "Python.Aula22-Módulos e Pacotes.executor": "Run",
+    "Python.Unnamed.executor": "Run",
     "Python.ex002-respondendo usuário.executor": "Run",
     "Python.ex003-Soma de dois números.executor": "Run",
     "Python.ex004-Dissecando uma Variável.executor": "Run",
@@ -69,9 +70,13 @@
     "Python.ex008-Conversor de Medidas.executor": "Run",
     "Python.ex008v1-Conversor de Medidas.executor": "Run",
     "Python.ex008v2-Conversor de Medidas (1).executor": "Run",
+    "Python.ex008v2-Conversor de Medidas.executor": "Debug",
+    "Python.ex010-Conversor de Moedas.executor": "Run",
     "Python.ex011-Pintando Parede.executor": "Run",
     "Python.ex012-Calculando Descontos.executor": "Run",
     "Python.ex013-Conversor de Temperaturas.executor": "Run",
+    "Python.ex013-Reajuste Salarial (1).executor": "Run",
+    "Python.ex013-Reajuste Salarial.executor": "Run",
     "Python.ex014-Conversor de Temperaturas.executor": "Run",
     "Python.ex015-Aluguel de Carros.executor": "Run",
     "Python.ex016-Quebrando um número.executor": "Run",
@@ -169,9 +174,12 @@
     "Python.testes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/lucas.deoliveira/PycharmProjects/modulos",
-    "settings.editor.selected.configurable": "settings.sync"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -186,8 +194,8 @@
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO1\Tratando dados e fazendo contas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula22-Módulos e Pacotes">
-    <configuration name="Aula22-Módulos e Pacotes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex004-Dissecando uma Variável">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python/Aula22-Módulos e Pacotes.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex104-Validando entrada de dados em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex004-Dissecando uma Variável" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,11 +227,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex104-Validando entrada de dados em Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex004-Dissecando uma Variável.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex105-Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex008v2-Conversor de Medidas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex105-Analisando e gerando Dicionários.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex008v2-Conversor de Medidas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex106-Interactive helping system in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex010-Conversor de Moedas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex106-Interactive helping system in Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex010-Conversor de Moedas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex013-Reajuste Salarial (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex013-Reajuste Salarial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,20 +307,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex013-Reajuste Salarial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.ex004-Dissecando uma Variável" />
+      <item itemvalue="Python.ex008v2-Conversor de Medidas" />
+      <item itemvalue="Python.ex010-Conversor de Moedas" />
+      <item itemvalue="Python.ex013-Reajuste Salarial (1)" />
+      <item itemvalue="Python.ex013-Reajuste Salarial" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula22-Módulos e Pacotes" />
-        <item itemvalue="Python.ex106-Interactive helping system in Python" />
-        <item itemvalue="Python.ex105-Analisando e gerando Dicionários" />
-        <item itemvalue="Python.ex104-Validando entrada de dados em Python" />
-        <item itemvalue="Python.testes" />
+        <item itemvalue="Python.ex004-Dissecando uma Variável" />
+        <item itemvalue="Python.ex008v2-Conversor de Medidas" />
+        <item itemvalue="Python.ex010-Conversor de Moedas" />
+        <item itemvalue="Python.ex013-Reajuste Salarial" />
+        <item itemvalue="Python.ex013-Reajuste Salarial (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -322,6 +363,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708470433119</updated>
+      <workItem from="1732838267121" duration="93000" />
     </task>
     <task id="LOCAL-00042" summary="for">
       <option name="closed" value="true" />
