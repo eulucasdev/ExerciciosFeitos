@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab66240f-75bf-41ee-a45f-2d512951565d" name="Changes" comment="(FUNÇÕES)">
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex113-Funções aprofundadas em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex114-Site está acessível.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/cores/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/validacao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/string/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +47,7 @@
     <setting file="file://$PROJECT_DIR$/MUNDO - 03/03-Varíável composta em Python(Dicionários)/ex093-Cadastro de Jogador de Futebol.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex101-Funções para votação.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MUNDO - 03/04-Funções em Python/ex105-Analisando e gerando Dicionários.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex114-Site está acessível.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,134 +66,139 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula - 21 parte 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula22-Módulos e Pacotes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002-respondendo usuário.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003-Soma de dois números.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004-Dissecando uma Variável.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005-Antecessor e Sucessor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006-Dobro, Triplo, Raiz Quadrada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007-Média Aritmética.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008-Conversor de Medidas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008v1-Conversor de Medidas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008v2-Conversor de Medidas (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008v2-Conversor de Medidas.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex010-Conversor de Moedas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex011-Pintando Parede.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex012-Calculando Descontos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013-Conversor de Temperaturas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013-Reajuste Salarial (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013-Reajuste Salarial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014-Conversor de Temperaturas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex015-Aluguel de Carros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex016-Quebrando um número.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex017-Hipotenusa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex018-Seno, Cosseno e Tangente.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019-Sorteando um item na lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020-Sorteando uma ordem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021-Tocando um MP3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022-Analisador de Textos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022-Separando dígitos de um número.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024-Verificando as primeiras letras de um texto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex025-Procurando uma string dentro de outra.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026-Primeira e última ocorrência de uma string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex027-Primeiro e último nome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028-Jogo da Adivinhação v.1.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029-Radar eletrônico.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030-Par ou Ímpar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031-Custo da Viagem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex032-Ano Bissexto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033-Maior e menor valores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034-Aumentos Múltiplos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex035-Analisando Triângulo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036-Aprovando Empréstimo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037-Conversor de Bases Numéricas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex038-Comparando números.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039-Alistamento Militar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex040-Aquele clássico da Média.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex041-Classificando Atletas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex043-Índice de Massa Corporal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044-Gerenciador de Pagamentos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex045-GAME Pedra Papel e Tesoura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex046-Contagem Regressiva.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex047-Contagem de pares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048-Soma ímpares múltiplos de três.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050-Soma dos pares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex051-Progressão Aritmética.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex053-Números primos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex054-Detector de Palíndromo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex054-Grupo da Maioridade (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex054-Grupo da Maioridade.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex055-Maior e menor da sequência.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex056-Analisador completo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057–Validação de Dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058-Jogo da Adivinhação v2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059-Menu de opções.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060–Cálculo do Fatorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061-Progressão Aritmética v2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex061-Super Progressão Aritmética v3.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex062-Sequência de Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex064-Tratando vários valores v1.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex065-Maior e Menor valores.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex066-Vários números com flag.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex069–Análise de dados do grupo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex070-Estatísticas em produtos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex071-Simulador de Caixa Eletrônico.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex072-Número por Extenso.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex073-Tuplas com Times de Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex074-Maior e menor valores em Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex075-Análise de dados em uma Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex076-Lista de Preços com Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex077-Contando vogais.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex078-Maior e Menor valores na Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex079-Valores únicos em uma Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex080-Lista ordenada sem repetições.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex081-Extraindo dados de uma Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex082-Dividindo valores em várias listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex083-Validando expressões matemáticas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex084-Lista composta e análise de dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex085-Listas com pares e ímpares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex086-Matriz em Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex087-Mais sobre Matriz em Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex088-Palpites para a Mega Sena.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex089-Boletim com listas compostas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex090-Dicionário em Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex091-Jogo de Dados em Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex092-Cadastro de Trabalhador em Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex093-Cadastro de Jogador de Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex094-Unindo dicionários e listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex095-Aprimorando os Dicionários.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex096-Função que calcula área.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex097-Um print especial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex098-Função de Contador.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex099-Função que descobre o maior.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex100-Funções para sortear e somar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex101-Funções para votação.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex102-Função para Fatorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex103-Ficha do Jogador.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex104-Validando entrada de dados em Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex105-Analisando e gerando Dicionários.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex106-Interactive helping system in Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex49-Tabuada v.2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex51-Progressão Aritmética.v1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex67-Tabuada v3.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex68-Jogo do Par ou Ímpar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testes.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas.deoliveira/PycharmProjects/modulos&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula - 21 parte 2.executor": "Run",
+    "Python.Aula22-Módulos e Pacotes.executor": "Run",
+    "Python.Unnamed.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.ex002-respondendo usuário.executor": "Run",
+    "Python.ex003-Soma de dois números.executor": "Run",
+    "Python.ex004-Dissecando uma Variável.executor": "Run",
+    "Python.ex005-Antecessor e Sucessor.executor": "Run",
+    "Python.ex006-Dobro, Triplo, Raiz Quadrada.executor": "Run",
+    "Python.ex007-Média Aritmética.executor": "Run",
+    "Python.ex008-Conversor de Medidas.executor": "Run",
+    "Python.ex008v1-Conversor de Medidas.executor": "Run",
+    "Python.ex008v2-Conversor de Medidas (1).executor": "Run",
+    "Python.ex008v2-Conversor de Medidas.executor": "Debug",
+    "Python.ex010-Conversor de Moedas.executor": "Run",
+    "Python.ex011-Pintando Parede.executor": "Run",
+    "Python.ex012-Calculando Descontos.executor": "Run",
+    "Python.ex013-Conversor de Temperaturas.executor": "Run",
+    "Python.ex013-Reajuste Salarial (1).executor": "Run",
+    "Python.ex013-Reajuste Salarial.executor": "Run",
+    "Python.ex014-Conversor de Temperaturas.executor": "Run",
+    "Python.ex015-Aluguel de Carros.executor": "Run",
+    "Python.ex016-Quebrando um número.executor": "Run",
+    "Python.ex017-Hipotenusa.executor": "Run",
+    "Python.ex018-Seno, Cosseno e Tangente.executor": "Run",
+    "Python.ex019-Sorteando um item na lista.executor": "Run",
+    "Python.ex020-Sorteando uma ordem.executor": "Run",
+    "Python.ex021-Tocando um MP3.executor": "Run",
+    "Python.ex022-Analisador de Textos.executor": "Run",
+    "Python.ex022-Separando dígitos de um número.executor": "Run",
+    "Python.ex024-Verificando as primeiras letras de um texto.executor": "Run",
+    "Python.ex025-Procurando uma string dentro de outra.executor": "Run",
+    "Python.ex026-Primeira e última ocorrência de uma string.executor": "Run",
+    "Python.ex027-Primeiro e último nome.executor": "Run",
+    "Python.ex028-Jogo da Adivinhação v.1.0.executor": "Run",
+    "Python.ex029-Radar eletrônico.executor": "Run",
+    "Python.ex030-Par ou Ímpar.executor": "Run",
+    "Python.ex031-Custo da Viagem.executor": "Run",
+    "Python.ex032-Ano Bissexto.executor": "Run",
+    "Python.ex033-Maior e menor valores.executor": "Run",
+    "Python.ex034-Aumentos Múltiplos.executor": "Run",
+    "Python.ex035-Analisando Triângulo.executor": "Run",
+    "Python.ex036-Aprovando Empréstimo.executor": "Run",
+    "Python.ex037-Conversor de Bases Numéricas.executor": "Run",
+    "Python.ex038-Comparando números.executor": "Run",
+    "Python.ex039-Alistamento Militar.executor": "Run",
+    "Python.ex040-Aquele clássico da Média.executor": "Run",
+    "Python.ex041-Classificando Atletas.executor": "Run",
+    "Python.ex043-Índice de Massa Corporal.executor": "Run",
+    "Python.ex044-Gerenciador de Pagamentos.executor": "Run",
+    "Python.ex045-GAME Pedra Papel e Tesoura.executor": "Run",
+    "Python.ex046-Contagem Regressiva.executor": "Run",
+    "Python.ex047-Contagem de pares.executor": "Run",
+    "Python.ex048-Soma ímpares múltiplos de três.executor": "Run",
+    "Python.ex050-Soma dos pares.executor": "Run",
+    "Python.ex051-Progressão Aritmética.executor": "Run",
+    "Python.ex053-Números primos.executor": "Run",
+    "Python.ex054-Detector de Palíndromo.executor": "Run",
+    "Python.ex054-Grupo da Maioridade (1).executor": "Run",
+    "Python.ex054-Grupo da Maioridade.executor": "Run",
+    "Python.ex055-Maior e menor da sequência.executor": "Run",
+    "Python.ex056-Analisador completo.executor": "Run",
+    "Python.ex057–Validação de Dados.executor": "Run",
+    "Python.ex058-Jogo da Adivinhação v2.0.executor": "Run",
+    "Python.ex059-Menu de opções.executor": "Run",
+    "Python.ex060–Cálculo do Fatorial.executor": "Run",
+    "Python.ex061-Progressão Aritmética v2.0.executor": "Run",
+    "Python.ex061-Super Progressão Aritmética v3.0.executor": "Run",
+    "Python.ex062-Sequência de Fibonacci.executor": "Run",
+    "Python.ex064-Tratando vários valores v1.0.executor": "Run",
+    "Python.ex065-Maior e Menor valores.executor": "Run",
+    "Python.ex066-Vários números com flag.executor": "Run",
+    "Python.ex069–Análise de dados do grupo.executor": "Run",
+    "Python.ex070-Estatísticas em produtos.executor": "Run",
+    "Python.ex071-Simulador de Caixa Eletrônico.executor": "Run",
+    "Python.ex072-Número por Extenso.executor": "Run",
+    "Python.ex073-Tuplas com Times de Futebol.executor": "Run",
+    "Python.ex074-Maior e menor valores em Tupla.executor": "Run",
+    "Python.ex075-Análise de dados em uma Tupla.executor": "Run",
+    "Python.ex076-Lista de Preços com Tupla.executor": "Run",
+    "Python.ex077-Contando vogais.executor": "Run",
+    "Python.ex078-Maior e Menor valores na Lista.executor": "Run",
+    "Python.ex079-Valores únicos em uma Lista.executor": "Run",
+    "Python.ex080-Lista ordenada sem repetições.executor": "Run",
+    "Python.ex081-Extraindo dados de uma Lista.executor": "Run",
+    "Python.ex082-Dividindo valores em várias listas.executor": "Run",
+    "Python.ex083-Validando expressões matemáticas.executor": "Run",
+    "Python.ex084-Lista composta e análise de dados.executor": "Run",
+    "Python.ex085-Listas com pares e ímpares.executor": "Run",
+    "Python.ex086-Matriz em Python.executor": "Run",
+    "Python.ex087-Mais sobre Matriz em Python.executor": "Run",
+    "Python.ex088-Palpites para a Mega Sena.executor": "Run",
+    "Python.ex089-Boletim com listas compostas.executor": "Run",
+    "Python.ex090-Dicionário em Python.executor": "Run",
+    "Python.ex091-Jogo de Dados em Python.executor": "Run",
+    "Python.ex092-Cadastro de Trabalhador em Python.executor": "Run",
+    "Python.ex093-Cadastro de Jogador de Futebol.executor": "Run",
+    "Python.ex094-Unindo dicionários e listas.executor": "Run",
+    "Python.ex095-Aprimorando os Dicionários.executor": "Run",
+    "Python.ex096-Função que calcula área.executor": "Run",
+    "Python.ex097-Um print especial.executor": "Run",
+    "Python.ex098-Função de Contador.executor": "Run",
+    "Python.ex099-Função que descobre o maior.executor": "Run",
+    "Python.ex100-Funções para sortear e somar.executor": "Run",
+    "Python.ex101-Funções para votação.executor": "Run",
+    "Python.ex102-Função para Fatorial.executor": "Run",
+    "Python.ex103-Ficha do Jogador.executor": "Run",
+    "Python.ex104-Validando entrada de dados em Python.executor": "Run",
+    "Python.ex105-Analisando e gerando Dicionários.executor": "Run",
+    "Python.ex106-Interactive helping system in Python.executor": "Run",
+    "Python.ex112-Entrada de dados monetários.executor": "Run",
+    "Python.ex113-Funções aprofundadas em Python.executor": "Run",
+    "Python.ex114-Site está acessível.executor": "Run",
+    "Python.ex49-Tabuada v.2.0.executor": "Run",
+    "Python.ex51-Progressão Aritmética.v1.executor": "Run",
+    "Python.ex67-Tabuada v3.0.executor": "Run",
+    "Python.ex68-Jogo do Par ou Ímpar.executor": "Run",
+    "Python.testes.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lucas.deoliveira/Documents/Meus Projetos/Phyton/ExerciciosFeitos/MUNDO - 03/06-Tratamento de Erros em Python",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO1\02-Módulos do Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -194,7 +209,7 @@
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO1\Tratando dados e fazendo contas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex010-Conversor de Moedas">
+  <component name="RunManager" selected="Python.ex114-Site está acessível">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
@@ -218,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex004-Dissecando uma Variável" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,34 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex004-Dissecando uma Variável.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex008v2-Conversor de Medidas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Exerc-cios-Prontos-em-Python-" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/validacao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex008v2-Conversor de Medidas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/validacao/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex013-Reajuste Salarial (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex112-Entrada de dados monetários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas/ex013-Reajuste Salarial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python/ex112-Entrada de dados monetários.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex013-Reajuste Salarial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex113-Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,35 +308,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 01/01-Tratando dados e fazendo contas" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex113-Funções aprofundadas em Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex114-Site está acessível" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex114-Site está acessível.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.ex004-Dissecando uma Variável" />
-      <item itemvalue="Python.ex008v2-Conversor de Medidas" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.ex112-Entrada de dados monetários" />
+      <item itemvalue="Python.ex113-Funções aprofundadas em Python" />
+      <item itemvalue="Python.ex114-Site está acessível" />
       <item itemvalue="Python.ex010-Conversor de Moedas" />
-      <item itemvalue="Python.ex013-Reajuste Salarial (1)" />
-      <item itemvalue="Python.ex013-Reajuste Salarial" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex114-Site está acessível" />
+        <item itemvalue="Python.ex113-Funções aprofundadas em Python" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.ex112-Entrada de dados monetários" />
         <item itemvalue="Python.ex010-Conversor de Moedas" />
-        <item itemvalue="Python.ex004-Dissecando uma Variável" />
-        <item itemvalue="Python.ex008v2-Conversor de Medidas" />
-        <item itemvalue="Python.ex013-Reajuste Salarial" />
-        <item itemvalue="Python.ex013-Reajuste Salarial (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -364,14 +377,6 @@
       <option name="presentableId" value="Default" />
       <updated>1708470433119</updated>
       <workItem from="1732838267121" duration="93000" />
-    </task>
-    <task id="LOCAL-00042" summary="for">
-      <option name="closed" value="true" />
-      <created>1713567118718</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1713567118718</updated>
     </task>
     <task id="LOCAL-00043" summary="(while)">
       <option name="closed" value="true" />
@@ -757,7 +762,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729708337418</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="(FUNÇÕES)">
+      <option name="closed" value="true" />
+      <created>1733266174379</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1733266174394</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
