@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab66240f-75bf-41ee-a45f-2d512951565d" name="Changes" comment="(TRATAMENTO DE ERROS)">
-      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/lib/interface/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/sistema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/arquivo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/sistema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex113-Funções aprofundadas em Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex113-Funções aprofundadas em Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex114-Site está acessível.py" beforeDir="false" afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex114-Site está acessível.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/lib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/lib/interface/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/sistema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/validacao/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/numeros/validacao/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/string/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/uteis/string/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +75,8 @@
     &quot;Python.Aula22-Módulos e Pacotes.executor&quot;: &quot;Run&quot;,
     &quot;Python.Unnamed (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex002-respondendo usuário.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex003-Soma de dois números.executor&quot;: &quot;Run&quot;,
@@ -179,6 +188,8 @@
     &quot;Python.ex113-Funções aprofundadas em Python.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex114-Site está acessível.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex115a-Criando um menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex115a-Criano um menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex115a.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex49-Tabuada v.2.0.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex51-Progressão Aritmética.v1.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex67-Tabuada v3.0.executor&quot;: &quot;Run&quot;,
@@ -191,7 +202,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas.deoliveira/Documents/Meus Projetos/Phyton/ExerciciosFeitos/MUNDO - 03/06-Tratamento de Erros em Python/ex115&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/Documents/MeusProjetos/Exerc-cios-Prontos-em-Python-/MUNDO - 03/06-Tratamento de Erros em Python/ex115-Criando um menu&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -199,19 +211,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Documents\MeusProjetos\Exerc-cios-Prontos-em-Python-\MUNDO - 03\06-Tratamento de Erros em Python\ex115-Criando um menu" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO1\02-Módulos do Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Documents\MeusProjetos\Exerc-cios-Prontos-em-Python-\MUNDO - 03" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python\ex115" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python\ex115\lib\interface" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python\ex115\lib" />
       <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python\ex115-Criando um menu" />
-      <recent name="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\Exerc-cios-Prontos-em-Python-\MUNDO - 03\01-Variável composta em Python(tupla)" />
     </key>
   </component>
   <component name="RunManager" selected="Python.sistema">
-    <configuration name="ex072-Número por Extenso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exerc-cios-Prontos-em-Python-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,16 +233,103 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python\ex115" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/arquivo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/01-Variável composta em Python(tupla)/ex072-Número por Extenso.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/arquivo/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/lib/interface/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex112-Entrada de dados monetários" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/05-Modularização em Python/ex112-Entrada de dados monetários.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex113-Funções aprofundadas em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex113-Funções aprofundadas em Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex115a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Exerc-cios-Prontos-em-Python-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115-Criando um menu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115-Criando um menu/ex115a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
@@ -243,36 +343,41 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\lucas.deoliveira\Documents\Meus Projetos\Phyton\ExerciciosFeitos\MUNDO - 03\06-Tratamento de Erros em Python\ex115" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/06-Tratamento de Erros em Python/ex115/sistema.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MUNDO - 03/ex115-Criando um menu/sistema.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
+      <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex072-Número por Extenso" />
+      <item itemvalue="Python.__init__ (2)" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.ex112-Entrada de dados monetários" />
+      <item itemvalue="Python.ex113-Funções aprofundadas em Python" />
+      <item itemvalue="Python.ex115a" />
       <item itemvalue="Python.sistema" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.sistema" />
-        <item itemvalue="Python.ex072-Número por Extenso" />
-        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.__init__ (2)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.ex113-Funções aprofundadas em Python" />
+        <item itemvalue="Python.ex115a" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -715,5 +820,16 @@
     <MESSAGE value="(FUNÇÕES)" />
     <MESSAGE value="(TRATAMENTO DE ERROS)" />
     <option name="LAST_COMMIT_MESSAGE" value="(TRATAMENTO DE ERROS)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

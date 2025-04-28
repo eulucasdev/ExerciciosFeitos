@@ -13,7 +13,16 @@ def leiadinheiro(v):
             v = input("Digite o valor: R$ ")
     return v
 
+def titulo(msg):
+    print("-"*30)
+    print(f'{msg:^30}')
+    print("-"*30)
 
-
-
-
+def cadastro():
+    cadastro()
+    while True:
+        titulo("CADASTRAR NOVO")
+        cadastro["nome"] = input("Nome: ")
+        cadastro["sexo"] = input("Sexo: ")
+        cadastro["idade"] = input("Idade")
+        return
